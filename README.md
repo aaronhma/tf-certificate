@@ -12,7 +12,7 @@ The items not marked with the badge represents the content is paid. The paid con
 ## Intro to Python
 This section meets the criteria of "Introductory Python programming skills".
 
-- [ X ] [DataCamp: Intro to Data Science in Python](https://learn.datacamp.com/courses/introduction-to-data-science-in-python)
+- [X] [DataCamp: Intro to Data Science in Python](https://learn.datacamp.com/courses/introduction-to-data-science-in-python)
 - [X] [DataCamp: Intermediate Python](https://learn.datacamp.com/courses/intermediate-python)
 - [X] [DataCamp: Python Data Science Toolbox, Part 1](https://learn.datacamp.com/courses/python-data-science-toolbox-part-1)
 - [X] [DataCamp: Python Data Science Toolbox, Part 2](https://learn.datacamp.com/courses/python-data-science-toolbox-part-2)
